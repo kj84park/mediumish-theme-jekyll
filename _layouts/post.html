@@ -50,6 +50,14 @@ post_class: post-template
             <!-- End Adsense -->
 
             <!-- Post Featured Image -->
+            <div class="custom-book-author">
+                {% if page.book_info %}
+                <strong><em>{{page.book_info}}</em></strong>
+                {% endif %}
+                {% if page.book_author %}
+                <h6>{{page.book_author}}</h6>
+                {% endif %}
+            </div>
             {% if page.image %}
 
             {% if site.lazyimages == "enabled" %}
@@ -63,6 +71,7 @@ post_class: post-template
 
             <!-- Post Content -->
             <div class="article-post">
+
                 <!-- Toc if any -->
                 {% if page.toc %}
                     {% if page.beforetoc %}
