@@ -357,7 +357,11 @@ blockquote {
 
 .featured-image {
     display: block;
+    width: 700px; /* width of container */
+    height: 700px; /* height of container */
     margin-bottom: 1.5rem;
+    object-fit: contain;
+
 }
 
 .share {
