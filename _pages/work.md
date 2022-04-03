@@ -8,9 +8,12 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>내 소개를 하겠습니다. 쏼라 쏼라 쏼라..</p>
+<p>Video: APAC 2021: Open Source LINE FIDO2 Server Overview</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/f46N8-T0Jmw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Open source contribution Starting with LINE FIDO2 Server</p>
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/JRu6IVSPEzE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 </div>
 
