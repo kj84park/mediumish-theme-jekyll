@@ -35,6 +35,8 @@ comments: true
 <div class='jekyll-twitter-plugin'>
 <a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/OwenKj00?ref_src=twsrc%5Etfw">Tweets by OwenKj00</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<p/>
+<p><h4>Tweets related to me</h4> </p>
 {% twitter https://twitter.com/rubygems/status/1462933919506989059 %}
 {% twitter https://twitter.com/rubygems/status/1445640238697566219 %}
 </div>
