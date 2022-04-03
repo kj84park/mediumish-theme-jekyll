@@ -29,9 +29,6 @@ comments: true
 <a href="https://github.com/kj84park"><i class="fab fa-github" style="font-size: 1.5em; margin-right: 13px;"></i></a>
 <a href="https://www.youtube.com/channel/UCymSNTJBl3NeHe_-dOGvzuA"><i class="fab fa-youtube" style="font-size: 1.5em; margin-right: 13px;"></i></a>
 <p/>
-<div class='jekyll-twitter-plugin'>
-    {% twitter https://twitter.com/OwenKj00 maxwidth=500 limit=3 %}
-</div>
 
 </div>
 </div>

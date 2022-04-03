@@ -8,12 +8,12 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Video: APAC 2021: Open Source LINE FIDO2 Server Overview</p>
+<p><h6>Video: APAC 2021: Open Source LINE FIDO2 Server Overview</h6> </p>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/f46N8-T0Jmw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="350" src="https://www.youtube.com/embed/f46N8-T0Jmw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Open source contribution Starting with LINE FIDO2 Server</p>
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/JRu6IVSPEzE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><h6>Open source contribution Starting with LINE FIDO2 Server</h6> </p>
+<p><iframe style="width:100%;" height="350" src="https://www.youtube.com/embed/JRu6IVSPEzE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 </div>
 
@@ -22,7 +22,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Contacts</h5>
 
-<p>Let's get close <i class="far fa-smile"></i></p>
+<p><i class="fa fa-envelope" aria-hidden="true"></i> netom@naver.com </p>
 
 
 <a href="https://twitter.com/OwenKj00"><i class="fab fa-twitter" style="font-size: 1.5em; margin-right: 13px;"></i></a>
@@ -33,7 +33,10 @@ comments: true
 <a href="https://www.youtube.com/channel/UCymSNTJBl3NeHe_-dOGvzuA"><i class="fab fa-youtube" style="font-size: 1.5em; margin-right: 13px;"></i></a>
 
 <div class='jekyll-twitter-plugin'>
-    {% twitter https://twitter.com/OwenKj00 maxwidth=500 limit=3 %}
+<a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/OwenKj00?ref_src=twsrc%5Etfw">Tweets by OwenKj00</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{% twitter https://twitter.com/rubygems/status/1462933919506989059 %}
+{% twitter https://twitter.com/rubygems/status/1445640238697566219 %}
 </div>
 
 </div>
