@@ -32,14 +32,9 @@ comments: true
 <a href="https://github.com/kj84park"><i class="fab fa-github" style="font-size: 1.5em; margin-right: 13px;"></i></a>
 <a href="https://www.youtube.com/channel/UCymSNTJBl3NeHe_-dOGvzuA"><i class="fab fa-youtube" style="font-size: 1.5em; margin-right: 13px;"></i></a>
 
-<div class='jekyll-twitter-plugin'>
+
 <a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/OwenKj00?ref_src=twsrc%5Etfw">Tweets by OwenKj00</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p/>
-<p><h4>Tweets related to me</h4> </p>
-{% twitter https://twitter.com/rubygems/status/1462933919506989059 %}
-{% twitter https://twitter.com/rubygems/status/1445640238697566219 %}
-</div>
 
 </div>
 </div>
